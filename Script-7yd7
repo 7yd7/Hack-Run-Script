@@ -13,6 +13,11 @@ if getgenv().Hack == "Delta" then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Delta"))()
 end
 
+-- تشغيل سكربت Delta-old
+if getgenv().Hack == "Delta-old" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Delta-old"))()
+end
+
 -- تشغيل سكربت Evon
 if getgenv().Hack == "Evon" then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Evon"))()
