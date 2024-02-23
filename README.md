@@ -13,3 +13,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/
  ```
 
  <summary> 2. قم استبدال كلمه (الهاك) يلي موجود تحت كلام </summary>
+Alysse
+Delta
+Evon
+KRNL
+Sonic-T
+Synapse-X
+codex
+codexIOS
+trigon
+vegax
+(قم كتابه النصوص المذكوره هنا بل اعلى سوف يتم اضافه مزيد)
