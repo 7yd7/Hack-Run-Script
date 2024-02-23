@@ -1,1 +1,54 @@
 
+-- getgenv().Hack = "vegax" -- قم ازاله اول اثنين يتم تفعيل بشكل صحيح
+
+
+
+-- تشغيل سكربت Alysse
+if getgenv().Hack == "Alysse" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Alysse"))()
+end
+
+-- تشغيل سكربت Delta
+if getgenv().Hack == "Delta" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Delta"))()
+end
+
+-- تشغيل سكربت Evon
+if getgenv().Hack == "Evon" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Evon"))()
+end
+
+-- تشغيل سكربت KRNL
+if getgenv().Hack == "KRNL" then
+	loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/KRNL"))()
+end
+
+-- تشغيل سكربت Sonic-T
+if getgenv().Hack == "Sonic-T" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Sonic-T"))()
+end
+
+-- تشغيل سكربت Synapse-X
+if getgenv().Hack == "Synapse-X" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/Synapse-X"))()
+end
+
+-- تشغيل سكربت codex
+if getgenv().Hack == "codex" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/codex"))()
+end
+
+-- تشغيل سكربت codexIOS
+if getgenv().Hack == "codexIOS" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/codexIOS"))()
+end
+
+-- تشغيل سكربت trigon
+if getgenv().Hack == "trigon" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/trigon"))()
+end
+
+-- تشغيل سكربت vegax
+if getgenv().Hack == "vegax" then
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script/vegax"))()
+end
