@@ -4,3 +4,9 @@
 شكرا استعمالك سكربت ايضا معلومه يمديك تاخذ سكربت من ملف كلمه Script تلاقي جميع سكربتات يلي موجوده :) سوف يتم اضافه مزيد
 --
  ## طريقه تشغيله ؟
+ <summary> 1. قم بنسخ سكربت يلي موجوده حاليا
+ ```
+getgenv().Hack = "الهاك"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script-7yd7"))()
+ ```  </summary>
