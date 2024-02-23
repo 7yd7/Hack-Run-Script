@@ -11,3 +11,5 @@ getgenv().Hack = "الهاك"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/7yd7/Hack-Run-Script/main/Script-7yd7"))()
  ```
+
+ <summary> 2. قم استبدال كلمه (الهاك) يلي موجود تحت كلام </summary>
